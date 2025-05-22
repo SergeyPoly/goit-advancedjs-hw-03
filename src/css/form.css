@@ -1,4 +1,4 @@
-.search-form {
+.form {
   width: 371px;
   margin: 0 auto;
   padding-top: 36px;
@@ -6,12 +6,12 @@
   justify-content: space-between;
 }
 
-.search-form label {
+.form label {
   display: block;
   width: 272px;
 }
 
-.search-form input {
+.form input {
   width: 100%;
   padding: 8px 16px;
   border-radius: 4px;
@@ -22,11 +22,11 @@
   line-height: inherit;
 }
 
-.search-form input:hover {
+.form input:hover {
   border-color: #000000;
 }
 
-.search-form button {
+.form button {
   width: 91px;
   background-color: #4e75ff;
   border: none;
@@ -39,6 +39,6 @@
   outline: none;
 }
 
-.search-form button:hover {
+.form button:hover {
   background-color: #6c8cff;
 }
